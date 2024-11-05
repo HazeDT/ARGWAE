@@ -25,7 +25,15 @@ SGWN:
 
 
 ARGWAE:
-xxx
+@ARTICLE{ARGWAE,
+  author={Li, Tianfu and Sun, Chuang and Yan, Ruqiang and Chen, Xuefeng},
+  journal={Journal of Intelligent Manufacturing}, 
+  title={A novel unsupervised graph wavelet autoencoder for mechanical system fault detection}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={},
+  doi={10.1007/s10845-024-02511-2}}
 
 
 
