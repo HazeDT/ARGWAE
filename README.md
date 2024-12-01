@@ -1,5 +1,5 @@
 # Adversarially regularized graph wavelet autoencoder  (ARGWAE)
-This code is about the implementation of [A Novel Unsupervised Graph Wavelet Autoencoder for Mechanical System Fault Detection]().
+This code is about the implementation of [A Novel Unsupervised Graph Wavelet Autoencoder for Mechanical System Fault Detection](https://link.springer.com/article/10.1007/s10845-024-02511-2).
 
 ![ARGWAE](https://github.com/HazeDT/ARGWAE/blob/main/ARGWAE.jpg)
 
